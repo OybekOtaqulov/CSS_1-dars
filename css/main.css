@@ -1,0 +1,24 @@
+/*selector: teg, class, id*/
+#d{
+
+}
+.r{
+    font-size: 30px;
+}
+.raf{
+    text-align: center;
+}
+.raf:hover{
+    background-color: black;
+    color: white;
+    transition: all 5s ease ;
+    font-size: 30px;
+    transform: rotate(20deg);
+}
+#bg{
+    background-color: white;
+    border:7px solid yellow;
+}
+
+
+
